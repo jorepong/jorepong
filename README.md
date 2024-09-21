@@ -1,7 +1,6 @@
-### 안녕하세요 😊
+### 안녕하세요
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jorepong123)](https://solved.ac/jorepong123) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jorepong123&theme=dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/jorepong)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jorepong123&theme=dark) ![Leetcode Stats](https://leetcard.jacoblin.cool/jorepong)
 
 <!--
 **jorepong/jorepong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
