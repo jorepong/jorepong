@@ -1,6 +1,6 @@
 ### 안녕하세요
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jorepong123&theme=dark) ![Leetcode Stats](https://leetcard.jacoblin.cool/jorepong)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jorepong) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jorepong123&theme=dark)
 
 <!--
 **jorepong/jorepong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
