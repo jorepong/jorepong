@@ -1,9 +1,4 @@
-<h3 align="center">Hi 👋 백엔드 & AI 엔지니어입니다</h3>
-
-<p align="center">
-동작 구조는 직접 설계하고, 구현은 AI를 지휘해 완성합니다.<br/>
-백엔드 기본기 위에서 AI/LLM을 활용하고, 그 코드를 읽고 검증합니다.
-</p>
+<h3 align="center">안녕하세요 👋</h3>
 
 <br/>
 
